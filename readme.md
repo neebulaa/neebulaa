@@ -17,7 +17,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-2f1a47?style=flat&logo=vue)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-2f1a47?style=flat&logo=vuedotjs)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=bootstrap)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;  
