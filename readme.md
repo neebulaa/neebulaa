@@ -15,7 +15,6 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
-
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-2f1a47?style=flat&logo=vuedotjs)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
@@ -26,7 +25,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2f1a47?style=flat&logo=visualstudiocode)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 
