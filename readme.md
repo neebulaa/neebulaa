@@ -1,6 +1,6 @@
 # _Hi there 👋_
 
-### I'm Edwin Hendly or also known as neebulaa online. I'm a self-taught web developer
+### I'm Edwin Hendly, a self-taught web developer
 
 ✉ [E-Mail](mailto:edwinhendly17@gmail.com)
 
