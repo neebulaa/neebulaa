@@ -2,7 +2,7 @@
 
 ### I'm Edwin Hendly, a self-taught web developer
 
-✉ [E-Mail](mailto:edwinhendly17@gmail.com)
+✉ You can message me here [E-Mail](mailto:edwinhendly17@gmail.com)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=neebulaa)](https://github.com/anuraghazra/github-readme-stats)
 
